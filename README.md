@@ -1,3 +1,5 @@
+Camy's README
+
 ![alt tag](http://www.seanjs.org/modules/core/client/img/brand/logo.png)
 
 ```bash
